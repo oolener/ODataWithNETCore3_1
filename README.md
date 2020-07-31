@@ -1,7 +1,7 @@
 # NET Core web api with oData support
 
-Framework: .NET Core 3.1
-oData: Newest Package
+CORE Framework: .NET Core 3.1
+
 
 Goal
 
